@@ -1,0 +1,9 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor swap files and backup files
+*.swp
+*.swo
+*~
